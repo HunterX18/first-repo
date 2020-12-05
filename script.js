@@ -1,4 +1,3 @@
-console.log("hello");
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
         this.previousOperandTextElement=previousOperandTextElement
